@@ -95,7 +95,7 @@ title: "Chris Guida's Website" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Chris Guida" # Site description and default description, also used in jekyll-seo-tag
 url: "https://cguida.io" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "/cguida.io"
 repo: "https://github.com/chrisguida/cguida.io"
 email: "me@cguida.io"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
