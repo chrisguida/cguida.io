@@ -35,6 +35,6 @@ If you would like to support my work, please send sats tips@cguida.io (bip353) o
 
 ## and here are some blog posts
 
-- [Smaug Blog](/cguida.io/jekyll/github-pages/2025/06/23/smaug/)
+- [Smaug]({{ site.baseurl }}/jekyll/github-pages/2025/06/23/smaug/)
 
 hope you enjoy!
