@@ -31,10 +31,10 @@ If you would like to support my work, please send sats tips@cguida.io (bip353) o
 
 ## here are some of my projects
 
-- Smaug
+- [Smaug](https://github.com/chrisguida/smaug)
 
 ## and here are some blog posts
 
-- Smaug Blog
+- [Smaug Blog](/cguida.io/jekyll/github-pages/2025/06/23/smaug/)
 
 hope you enjoy!
