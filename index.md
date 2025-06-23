@@ -32,6 +32,11 @@ If you would like to support my work, please send sats tips@cguida.io (bip353) o
 ## here are some of my projects
 
 - [Smaug](https://github.com/chrisguida/smaug)
+- [Garbageman](https://github.com/chrisguida/bitcoin/tree/garbageman)
+- [Tiny Lightning Node Tutorial](https://chrisguida.github.io/tiny-lightning-node-tutorial/)
+- [CLN Plugin Tutorial](https://chrisguida.github.io/cln-plugin-tutorial/)
+- [NixOS Mutinynet Tutorial](https://chrisguida.github.io/nixos-mutinynet-tutorial/)
+- [PromptPay](https://github.com/chrisguida/bolt12-subscriptions)
 
 ## and here are some blog posts
 
