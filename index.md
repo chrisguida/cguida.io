@@ -38,6 +38,10 @@ If you would like to support my work, please send sats tips@cguida.io (bip353) o
 - [NixOS Mutinynet Tutorial](https://chrisguida.github.io/nixos-mutinynet-tutorial/)
 - [PromptPay](https://github.com/chrisguida/bolt12-subscriptions)
 
+## and here are some talks
+
+- [What separates Bitcoin from crypto?](https://cguida.io/talks/labitconf-2026/) (LABITCONF 2026, Buenos Aires): BIP 110, the blake2b fork, and why nodes, not miners, decide what Bitcoin is
+
 ## and here are some blog posts
 
 - [Smaug]({{ site.baseurl }}/jekyll/github-pages/2025/06/23/smaug/)
